@@ -2,6 +2,6 @@ version: 1.0
 profile:
   name: qodana.recommended
 include:
-  - name: UnusedImport
+  - name: UNUSED_IMPORT
     paths:
       - src/main/java/hello/Hello.java
