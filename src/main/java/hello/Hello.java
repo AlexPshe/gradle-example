@@ -10,4 +10,11 @@ public class Hello {
 
         }
     }
+    
+    
+    public static void main2(String[] args) {
+        if (true) {
+
+        }
+    }
 }
